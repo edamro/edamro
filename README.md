@@ -21,7 +21,7 @@
  ##
  
 <div align="center">
-  <h4>Entre em contato:</h4>
+  <h3>Entrar em contato:</h3>
  <a href="https://www.linkedin.com/in/eduardo-amarante-rodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:edamrodrigues1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
