@@ -1,6 +1,4 @@
 
-
-
 <h3 align="center">Competências:</h3>
 <div style="display: inline_block" align="center">
  <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
